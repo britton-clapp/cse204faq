@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://britton-clapp.github.io/cse204faq-html/"
 languageCode = "en-us"
 title = "CSE 204 Frequently Asked Questions"
 theme = "ezhil"
