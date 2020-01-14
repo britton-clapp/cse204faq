@@ -1,7 +1,7 @@
 ---
 title: "Cant Find Github Pages Link"
 date: 2019-09-11T13:56:20-05:00
-draft: true
+draft: false
 ---
 
 Go to https://github.com, make sure you're logged in, and go to your repository for the assignment. Click on the "Settings" tab.

@@ -1,7 +1,7 @@
 ---
 title: "Github Pages Link Shows a Blank Page"
 date: 2019-09-11T08:37:32-05:00
-draft: true
+draft: false
 ---
 
 In your assignment repository, on github.com, take a look at your index.html file. Your main content should be in index.html. If you have added your content to a different file, you should either:
