@@ -4,7 +4,7 @@ date: 2020-01-13T20:39:19-06:00
 draft: false
 ---
 
-Submitting an assignment requires several steps. Here's a detailed walkthrough with screenshots.
+Submitting an assignment requires several steps. Here's a detailed walkthrough.
 
 1. Commit your code via git.
 2. Push your code up to Github.
